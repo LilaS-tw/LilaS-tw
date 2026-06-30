@@ -21,6 +21,6 @@
 ## Connect with me
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LilaS-tw)
+![Static Badge](https://img.shields.io/badge/DamianXs1o%40proton.me-black?style=for-the-badge&logo=proton&logoColor=%236D4AFF)
 
 </div>
